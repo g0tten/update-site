@@ -1,6 +1,6 @@
 ## Gotten update-site
 
-Gotten, Generic MDE framework fOr meTamorphic TEstiNg, update-site
+Gotten, Generic MDE framework fOr meTamorphic TEstiNg, update-site.
 
 ### Acknowledgements
 
