@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/gotten.core_1.0.0.202512202342.jar" id="gotten.core" version="1.0.0.202512202342">
+   <feature url="features/gotten.core_1.0.0.202512212047.jar" id="gotten.core" version="1.0.0.202512212047">
       <category name="Gotten"/>
    </feature>
-   <feature url="features/gotten.henshin_1.0.0.202512202342.jar" id="gotten.henshin" version="1.0.0.202512202342">
+   <feature url="features/gotten.henshin_1.0.0.202512212047.jar" id="gotten.henshin" version="1.0.0.202512212047">
       <category name="Gotten"/>
    </feature>
-   <feature url="features/gotten.momot_1.0.0.202512202342.jar" id="gotten.momot" version="1.0.0.202512202342">
+   <feature url="features/gotten.momot_1.0.0.202512212047.jar" id="gotten.momot" version="1.0.0.202512212047">
       <category name="Gotten"/>
    </feature>
-   <feature url="features/gotten.views_1.0.0.202512202342.jar" id="gotten.views" version="1.0.0.202512202342">
+   <feature url="features/gotten.views_1.0.0.202512212047.jar" id="gotten.views" version="1.0.0.202512212047">
       <category name="Gotten"/>
    </feature>
    <category-def name="Gotten" label="Gotten"/>
